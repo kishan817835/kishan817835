@@ -1,4 +1,4 @@
-<img src="banner.jpeg"/>
+<img src="banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
 <h3 align="center">
