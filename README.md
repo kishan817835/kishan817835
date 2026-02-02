@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/30/8f/2f/308f2fd627c36e007527bc50337f6c7b.jpg" />
+<img src="banner.jpeg"/>
 
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
 <h3 align="center">
